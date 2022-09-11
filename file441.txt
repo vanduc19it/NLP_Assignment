@@ -1,2 +1,0 @@
-
-local – “This is a local business.”

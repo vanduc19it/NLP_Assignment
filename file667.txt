@@ -1,2 +1,0 @@
-
-close -“Please close the door.”

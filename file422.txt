@@ -1,2 +1,0 @@
-
-send – “Please send the package to my address.”

@@ -11,6 +11,6 @@ for link in links:
     print(link.text)
     array.append(link.text)
 
-for i in range(1000):
+for i in range(100):
     with open("file%03d.txt" % i, 'w', encoding='utf-8') as f:
         f.write(f"{array[i]}")
