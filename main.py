@@ -10,6 +10,7 @@ soup = BeautifulSoup(html, "html.parser")
 
 array = [];
 links  = soup.find_all('li')
+p
 for link in links:
     print(nltk.word_tokenize(link.text))
     array.append(link.text)
